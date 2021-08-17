@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CakeEmporium</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_market">Рынок</string>
+    <string name="content_description_market_descritpion">Перейти к подробностям магазина</string>
+</resources>
